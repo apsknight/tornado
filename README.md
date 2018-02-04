@@ -30,11 +30,7 @@ tornado -a [Address]
 ## References
 
 - Google Geocode API
-- <forecast.io> weather API
-
-## Maintainers
-
-- [Aman Pratap Singh](https://github.com/apsknight)
+- forecast.io weather API
 
 ## License
 
