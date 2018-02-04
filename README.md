@@ -13,7 +13,7 @@
 [![License](https://img.shields.io/badge/license-MIT-ff69b4.svg)](http://aps.mit-license.org)
 [![PR](https://img.shields.io/badge/PR-welcome-red.svg)]()
 
-<img src="http://preview.ibb.co/kfAXox/Screenshot_from_2018_02_04_15_13_57.png" alt="" width="900">
+<img src="http://preview.ibb.co/fXnyvc/Screenshot_from_2018_02_04_15_35_40.png" alt="" width="800">
 
 ## Install
 
