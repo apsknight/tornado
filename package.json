@@ -1,7 +1,7 @@
 {
   "name": "tornado",
   "version": "0.0.1",
-  "description": "A weather app.",
+  "description": "A weather forecast app.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,16 @@
     "yargs": "^11.0.0"
   },
   "preferGlobal": true,
-  "bin": "./app.js"
+  "bin": {
+    "tornado": "./app.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apsknight/tornedo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apsknight/tornedo/issues"
+  },
+  "homepage": "https://github.com/apsknight/tornedo#readme"
 }
