@@ -1,0 +1,21 @@
+{
+  "name": "tornado",
+  "version": "0.0.1",
+  "description": "A weather app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Weather"
+  ],
+  "author": "Aman Pratap Singh",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chalk": "^2.3.0",
+    "yargs": "^11.0.0"
+  },
+  "preferGlobal": true,
+  "bin": "./app.js"
+}
