@@ -1,5 +1,5 @@
 {
-  "name": "tornado",
+  "name": "tornado-weather",
   "version": "0.0.1",
   "description": "A weather forecast app.",
   "main": "app.js",
@@ -23,10 +23,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apsknight/tornedo.git"
+    "url": "git+https://github.com/apsknight/tornado.git"
   },
   "bugs": {
-    "url": "https://github.com/apsknight/tornedo/issues"
+    "url": "https://github.com/apsknight/tornado/issues"
   },
-  "homepage": "https://github.com/apsknight/tornedo#readme"
+  "homepage": "https://github.com/apsknight/tornado#readme"
 }
